@@ -1,0 +1,3 @@
+# Ignore accidentally committed cloud credentials
+serviceAccountKey.json
+**/serviceAccountKey.json
